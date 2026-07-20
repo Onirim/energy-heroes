@@ -2,12 +2,13 @@
 
 ## Pitch
 
-Jeu navigateur, type RPG fantasy lite mais thème **super-héros**, jouable en **asynchrone** : les joueurs préparent des actions puis reviennent plus tard consulter les résultats. Chaque joueur crée son propre **univers privé**, invitable entre amis, collègues, etc.
+Jeu navigateur, type RPG lite thème **super-héros**, jouable en **asynchrone** : les joueurs préparent des actions puis reviennent plus tard consulter les résultats. Chaque joueur crée son propre **ville privée**, invitable entre amis, collègues, etc.
 
 ## Principes fondateurs
 
 - **Asynchrone assumé** : pas besoin d'être connecté en même temps que les autres. La double vie du super-héros (identité civile / masquée) justifie narrativement l'absence du joueur — ce n'est pas un vide, ça fait partie du personnage.
-- **Univers privés** : chaque groupe joue dans son propre monde, séparé des autres. Favorise la coopération plutôt que la compétition anonyme.
+- **Villes
+-  privés** : chaque groupe joue dans son propre monde, séparé des autres. Favorise la coopération plutôt que la compétition anonyme.
 - **Coopération via le Super QG** : les joueurs se regroupent en équipes autour d'une base commune (le QG), lieu de coopération concret sans obliger à jouer simultanément.
 
 ## Personnages
